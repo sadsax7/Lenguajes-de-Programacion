@@ -10,13 +10,13 @@ public class main {
         int num = 3;
         switch(num) {
             case 1:
-            System.out.println(var);
+            System.out.println(var); //leeria el archivo anio_test.txt
             break;
             case 2:
-            System.out.println(var1);
+            System.out.println(var1); //leeria el archivo 2001.txt
             break;
             case 3:
-            System.out.println(var2);
+            System.out.println(var2); //leeria el archivo porque_tomar_agua.txt
             break;
             default:
             System.out.println("No se encontro ningun archivos, porfavor vuelve a intentarlo");
